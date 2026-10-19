@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "SleepNWAfk",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "SleepNW",
+    "password": "bot123",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "135.148.171.109:10592",
+    "port": 10592,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
